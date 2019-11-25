@@ -3,4 +3,4 @@ My settings.
  - Visual Studio Code 1.40.1
 # Usage
 ##### in terminal
-`bash newwork.sh <workSpaceName>`
+`bash newwwork.sh <workSpaceName>`
